@@ -12,6 +12,7 @@ const navItems = [
   { href: "/lessons", label: "Materi" },
   { href: "/quizzes", label: "Kuis" },
   { href: "/topics", label: "Topik" },
+  { href: "/competition-bank", label: "Bank Soal" },
   { href: "/about", label: "Tentang" },
   { href: "/contact", label: "Kontak" },
 ]
