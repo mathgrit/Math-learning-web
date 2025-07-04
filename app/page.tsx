@@ -54,9 +54,9 @@ export default function HomePage() {
             <div className="relative">
               <div className="relative z-10">
                 <Image
-                  src="/placeholder.svg?height=500&width=600"
-                  alt="Siswa belajar matematika dengan laptop"
-                  width={600}
+                  src="/home.jpg?height=4096&width=4096"
+                  alt="Tumpukkan buku"
+                  width={500}
                   height={500}
                   className="rounded-2xl shadow-2xl"
                 />
